@@ -27,8 +27,8 @@ setup(
     version='0.0.0',
     description="A terrible speech synthesizer.",
     long_description=readme + '\n\n' + history,
-    author="Alex Corkwell",
-    author_email='i.am.the.memory@gmail.com',
+    author="Alex Corkwell, Myles Gallagher",
+    author_email='<i.am.the.memory@gmail.com>, <myles.gallagher@gmail.com>',
     url='https://github.com/iamthememory/attrophone',
     packages=[
         'attrophone',

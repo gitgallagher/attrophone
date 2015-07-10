@@ -6,6 +6,7 @@ Development Lead
 ----------------
 
 * Alex Corkwell <i.am.the.memory@gmail.com>
+* Myles Gallagher <myles.gallagher@gmail.com>
 
 Contributors
 ------------

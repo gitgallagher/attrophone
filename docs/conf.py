@@ -56,7 +56,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Attrophone'
-copyright = u'2015, Alex Corkwell'
+copyright = u'2015, Alex Corkwell, Myles Gallagher'
 
 # The version info for the project you're documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout
@@ -210,7 +210,7 @@ latex_elements = {
 latex_documents = [
     ('index', 'attrophone.tex',
      u'Attrophone Documentation',
-     u'Alex Corkwell', 'manual'),
+     u'Alex Corkwell, Myles Gallagher', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at
@@ -241,7 +241,7 @@ latex_documents = [
 man_pages = [
     ('index', 'attrophone',
      u'Attrophone Documentation',
-     [u'Alex Corkwell'], 1)
+     [u'Alex Corkwell, Myles Gallagher'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -256,7 +256,7 @@ man_pages = [
 texinfo_documents = [
     ('index', 'attrophone',
      u'Attrophone Documentation',
-     u'Alex Corkwell',
+     u'Alex Corkwell, Myles Gallagher',
      'attrophone',
      'One line description of project.',
      'Miscellaneous'),
